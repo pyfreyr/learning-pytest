@@ -123,11 +123,11 @@ Pytest 使用手册
 
 .. _Python Testing with pytest: https://pragprog.com/book/bopytest/python-testing-with-pytest
 
-.. _Github: https://github.com/ifreyr/learning-pytest/tree/master/tests
+.. _Github: https://github.com/pyfreyr/learning-pytest/tree/master/tests
 
 本教程所有测试示例代码可在 `Github`_ 下载。
 
 如果您在阅读过程中发现有任何问题或建议，欢迎通知本人更新，帮助更多 Pythoner。
 
-Email: mrchan3030@foxmail.com
+Email: pyfreyr@126.com
 
